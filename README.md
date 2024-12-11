@@ -1,6 +1,6 @@
 
 # smartSense Assessment (for AI/ML Engineer I role)
-
+github link: https://github.com/shryapatel91/Shreya_AIML1.git
 
 ## Goal: 
 This project addresses the inefficiencies that often arise in meetings, such as off-topic discussions, low
