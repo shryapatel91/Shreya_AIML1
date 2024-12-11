@@ -1,5 +1,5 @@
 
-# smartSense Assessment (for AI-ML Engineer I role)
+# smartSense Assessment (for AI/ML Engineer I role)
 
 
 ## Goal: 
